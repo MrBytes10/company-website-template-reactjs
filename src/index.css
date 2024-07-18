@@ -431,6 +431,7 @@ ul li a {
   }
 }
 
+/*Making it responsive for small screens */
 @media (max-width: 768px) { 
   header h1 {
     text-align: center;
